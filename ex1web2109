@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head><title> Web Technology Exp no 1</title>
+<style> table, th,
+
+    td {
+    width: 50ch;
+    border: 1px solid rgb(10, 10, 10); border-style: line; background-color: rgb(221, 125, 125);
+    }
+    
+</style>
+<body style="background-color:rgb(221, 125, 125)"></body>
+<style>
+.center_align {
+text-align: center;
+}
+</style>
+</head>
+
+<body>
+<div class="center_align">
+<h1>WELCOME TO SANDALWOOD CRAFTS</h1>
+</div>
+<p> Name: <span style = "color:rgb(10, 10, 10)">ROHAN JOEL J</span></p>
+<br>
+<br>
+<br>
+
+<div class="center_align">
+<img src="sandalwood.jpg" width="300",height="200",>
+</div>
+<br>
+<br>
+
+
+<br>
+<br>
+<br>
+<p style="color:rgb(15, 14, 14);">THE BELOW TABLE CONTAINS THE DETAILS OF THE SANDALWOOD CRAFTS : </p>
+<table style="width:50%;color:black">
+<tr>
+    <th>OWNERS</th>
+    <th>CONTACT</th>
+    <th>STATE</th>
+    </tr>
+    <tr>
+    <td>ROHAN JOEL</td>
+    <td>9345791342</td>
+    <td>TAMILNADU</td>
+    </tr>
+    <tr>
+    <td>SAM LEO</td>
+    <td>9600843513</td>
+    <td>ANDHRA PRADHESH</td>
+    </tr>
+    <tr>
+    <td>JASCAR BENISH</td>
+    <td>8870237237</td>
+    <td>BIHAR</td>
+    </tr>
+    <tr>
+    <td>ANTAN VINO</td>
+    <td>6673838238</td>
+    <td>MUMBAI</td>
+    </tr>
+    <tr>
+    <td>PRAKASH</td>
+    <td>6787938292</td>
+    <td>MAHARASHTRA</td>
+    </tr>
+    <tr>
+    <td>JEREMY DAVID</td>
+    <td>7474747474</td>
+    <td>KERALA</td>
+    </tr>
+    <tr>
+    <td>HARISH</td>
+    <td>6464646464</td>
+    <td>KERALA</td>
+    </tr>
+    </table>
+    <br>
+    <dl>
+    <dt><b>COMPANY STATUS:</b></dt>
+    <dd>Sandalwood are holding 1st place on board of companies</dd> <h2 >Top sponsors: </h2>
+    <section>
+    <ol>
+    <li>Erling Haaland </li>
+    <li>Kylian Mbappe </li>
+    <li>Karim Benzema </li>
+    <li>Oliver Giroud </li>
+    <li>Alvaro Morata </li>
+</ol>
+<h3>Top Co-Sponsors:</h3>
+<ul type = "disc">
+<li>Cuadrado</li>
+<li>Joshua Kimmich</li>
+<li>Angel Di Maria</li>
+<li>Jadon Sancho</li>
+<li>Kevin De Bruyne</li>
+</ul>
+</section>
+<p>Below link to sandalwood website:</p>
+<a href="https://quintis.com.au/"><u>Click here</u></a>
+<br>
+<br>
+<nav>
+<p>Instagram-id:</p>
+<a href="https://instagram.com/sandal_wood_crafts?igshid=YmMyMTA2M2Y=">Insta Official</a><br>
+</nav>
+<footer>
+<p>Author Name: ROHAN JOEL J</p>  
+<nav>
+<p>Mail-id:</p>
+<a href="https://mail.google.com/mail/u/0/#inbox">KMail</a></p>
+</nav>
+</footer>
+</body>
+</html>
